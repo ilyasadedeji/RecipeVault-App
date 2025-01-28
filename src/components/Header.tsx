@@ -41,7 +41,7 @@ const Header: React.FC = () => {
             <ul className="flex space-x-4">
               <li>
                 <Link href="/" className="hover:text-blue-300">
-                  Home
+                  HOME
                 </Link>
               </li>
               <li>
